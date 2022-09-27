@@ -21,12 +21,12 @@ Webpack
 Git, GitHub 
 VS Code 
 Jira 
-Adobe Photoshop, Illustrator, Figma 
-********************** 
+Adobe Photoshop, Illustrator, Figma  
+**********************
 ### **Courses:** 
 + University: Zhytomyr Polytechnic State University
 + JavaScript Manual on learnjavascript.ru 
 + Viseven IT Academy  [Front end development](https://dou.ua/calendar/37049/) 
 + JS. HowProgrammingWorks. Examples for Software Engineering and Programming Lectures (Timur Shemsedinov) 
-+ RS Schools Course «JavaScript/Front-end. Stage 1» (in progress) 
-********************** 
++ RS Schools Course «JavaScript/Front-end. Stage 1» (in progress)  
+**********************
